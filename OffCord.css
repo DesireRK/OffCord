@@ -8,11 +8,15 @@
     padding-top: 15px !important;
 }
 
-/* Search */
+/* Tool Bar Search */
 .container-1r6BKw {
  padding-top: 7px !important;
 }
 
+/* DM List Search */
+.searchBar-6Kv8R2 .searchBarComponent-32dTOx {
+    transform: rotate(5deg);
+}
 
 /* Top Tool Bar */
 .toolbar-1t6TW {
