@@ -1,2 +1,2 @@
 # OffCord
-Discord, but it's slightly off. 
+Discord, but it's off.
