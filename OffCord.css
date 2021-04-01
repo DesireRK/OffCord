@@ -36,7 +36,7 @@
    
    /* User Panel */
    .panels-j1Uci_{
-       transform: rotateZ(-1deg);
+        transform: rotateZ(-1deg);
    }
    
    /* /////////// */
@@ -45,7 +45,7 @@
 
    /* Tilt Server List */
       .scroller-1Bvpku {
-          transform: rotateZ(1deg);
+                transform: rotateZ(1deg);
       }
     
     /* Off Center Server Icons */
@@ -63,9 +63,21 @@
 
    /* Tilted Settings Content Screen */
    .contentRegion-3nDuYy {
-      transform: rotateZ(-1deg);
+        transform: rotateZ(-1deg);
    }
    /* User / Spotify Panel */
    .panels-j1Uci_ {
-      padding-left: 10px;
+        padding-left: 10px;
+   }
+   /* Off Center Unread Markers */
+   .unread-2lAfLh {
+        margin-top: 20px;
+   }
+   /* Offset Channel Name From Channel Icon */
+   .iconContainer-1BBaeJ {
+       margin-right: 50px;
+   }
+   /* Allign Server Name To The Right */
+   .name-1jkAdW {
+       text-align: right;
    }
