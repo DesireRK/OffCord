@@ -42,17 +42,13 @@
    .panels-j1Uci_{
         transform: rotateZ(-1deg);
    }
-   
-   /* /////////// */
-   /* Server List */ 
-   /* /////////// */
 
-   /* Tilt Server List */
+   /* Server List */
       .scroller-1Bvpku {
                 transform: rotateZ(1deg);
    }
     
-    /* Off Center Server Icons */
+    /* Server Icons */
        .wrapper-1BJsBx {
            margin-left: 3px;
    }
@@ -61,11 +57,7 @@
            margin-top: 3px;
            margin-left: -10px;
    }
-   
-
-
-
-   /* Tilted Settings Content Screen */
+   /* Settings Content Screen */
    .contentRegion-3nDuYy {
         transform: rotateZ(-1deg);
    }
@@ -73,7 +65,7 @@
    .panels-j1Uci_ {
         padding-left: 10px;
    }
-   /* Off Center Unread Markers */
+   /* Unread Markers */
    .unread-2lAfLh {
         margin-top: 20px;
    }
@@ -81,7 +73,24 @@
    .iconContainer-1BBaeJ {
        margin-right: 50px;
    }
-   /* Allign Server Name To The Right */
+   /* Server Name To The Right */
    .name-1jkAdW {
        text-align: right;
    }
+  /* Server Member List */
+  .member-3-YXUe {
+    transform: rotate(5deg);
+}
+   /* Default Profile Modal */
+  .theme-dark .headerNormal-T_seeN {
+    transform: rotate(-2deg);
+}
+   /* Activity  Profile Modal Rotate */
+   .header-2BwW8b {
+   transform: rotate(7deg);
+   }
+   /* Full Screen Modal */
+  .root-SR8cQa {
+      rotate: rotate(5deg);
+      margin-right: 100px;
+  }
