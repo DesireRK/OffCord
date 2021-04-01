@@ -39,11 +39,28 @@
        transform: rotateZ(-1deg);
    }
    
-   /* Tilted Server List */ 
+   /* /////////// */
+   /* Server List */ 
+   /* /////////// */
+
+   /* Tilt Server List */
       .scroller-1Bvpku {
           transform: rotateZ(1deg);
       }
+    
+    /* Off Center Server Icons */
+       .wrapper-1BJsBx {
+           margin-left: 3px;
+      }
+    /* Server Folder Icon */
+       .closedFolderIconWrapper-2sTcE6 {
+           margin-top: 3px;
+           margin-left: -10px;
+      }
    
+
+
+
    /* Tilted Settings Content Screen */
    .contentRegion-3nDuYy {
       transform: rotateZ(-1deg);
