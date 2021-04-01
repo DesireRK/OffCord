@@ -41,5 +41,10 @@
 
 /* Tilted Server List */ 
    .scroller-1Bvpku {
-       transform: rotate(1deg);
+       transform: rotateZ(1deg);
    }
+
+/*  Tilted Settings Content Screen */
+.contentRegion-3nDuYy {
+   transform: rotateZ(-1deg);
+}
