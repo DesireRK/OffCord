@@ -1,5 +1,5 @@
 .appMount-3lHmkl, body {
-    margin: 3px;
+ transform: rotateZ(.1deg);
 }
 
 /* avatars */
@@ -15,10 +15,21 @@
 
 
 /* Top Tool Bar */
-.toolbar-1t6TW {
-    padding-bottom: 10px;
+.toolbar-1t6TWx{
+    transform: rotateZ(-1deg);
 }
 /* Chat */
 .button-3AYNKb {
     padding-bottom: -15PX;
+}
+.cozyMessage-3V1Y8y.groupStart-23k01U{
+    transform: rotateZ(-1deg);
+}
+.form-2fGMdU{
+    transform: rotateZ(-1deg);
+}
+
+/* User Panel*/
+.panels-j1Uci_{
+    transform: rotateZ(-1deg);
 }
