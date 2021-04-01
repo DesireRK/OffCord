@@ -1,0 +1,9 @@
+{
+    "name": "OffCord",
+    "description": "Just a little April Fools theme, Discord but everthing's offcenter.",
+    "version": "1.01",
+    "author": "RK#3951",
+    "theme": "OffCord.css",
+    "consent": "false",
+    "license": "MIT"
+}
