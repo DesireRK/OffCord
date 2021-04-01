@@ -1,24 +1,29 @@
+/* Offset Discord's App Mount */
 .appMount-3lHmkl, body {
  transform: rotateZ(.1deg);
 }
 
-/* avatars */
+/* Avatars */
 .avatar-3uk_u9 {
     margin-right: 2px !important;
     padding-top: 15px !important;
 }
 
-/* Search */
+/* Tool Bar Search */
 .container-1r6BKw {
  padding-top: 7px !important;
 }
 
+/* DM List Search */
+.searchBar-6Kv8R2 .searchBarComponent-32dTOx {
+    transform: rotate(5deg);
+}
 
 /* Top Tool Bar */
 .toolbar-1t6TWx{
     transform: rotateZ(-1deg);
 }
-/* Chat */
+/* Chat  */
 .button-3AYNKb {
     padding-bottom: -15PX;
 }
