@@ -23,7 +23,7 @@
 .toolbar-1t6TWx{
     transform: rotateZ(-1deg);
 }
-/* Chat  */
+/* Chat */
 .button-3AYNKb {
     padding-bottom: -15PX;
 }
@@ -34,7 +34,12 @@
     transform: rotateZ(-1deg);
 }
 
-/* User Panel*/
+/* User Panel */
 .panels-j1Uci_{
     transform: rotateZ(-1deg);
 }
+
+/* Tilted Server List */ 
+   .scroller-1Bvpku {
+       transform: rotate(1deg);
+   }
