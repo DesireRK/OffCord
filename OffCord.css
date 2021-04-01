@@ -1,50 +1,54 @@
 /* Offset Discord's App Mount */
 .appMount-3lHmkl, body {
- transform: rotateZ(.1deg);
-}
-
-/* Avatars */
-.avatar-3uk_u9 {
-    margin-right: 2px !important;
-    padding-top: 15px !important;
-}
-
-/* Tool Bar Search */
-.container-1r6BKw {
- padding-top: 7px !important;
-}
-
-/* DM List Search */
-.searchBar-6Kv8R2 .searchBarComponent-32dTOx {
-    transform: rotate(5deg);
-}
-
-/* Top Tool Bar */
-.toolbar-1t6TWx{
-    transform: rotateZ(-1deg);
-}
-/* Chat */
-.button-3AYNKb {
-    padding-bottom: -15PX;
-}
-.cozyMessage-3V1Y8y.groupStart-23k01U{
-    transform: rotateZ(-1deg);
-}
-.form-2fGMdU{
-    transform: rotateZ(-1deg);
-}
-
-/* User Panel */
-.panels-j1Uci_{
-    transform: rotateZ(-1deg);
-}
-
-/* Tilted Server List */ 
-   .scroller-1Bvpku {
-       transform: rotateZ(1deg);
+    transform: rotateZ(.1deg);
    }
-
-/*  Tilted Settings Content Screen */
-.contentRegion-3nDuYy {
-   transform: rotateZ(-1deg);
-}
+   
+   /* Avatars */
+   .avatar-3uk_u9 {
+       margin-right: 2px !important;
+       padding-top: 15px !important;
+   }
+   
+   /* Tool Bar Search */
+   .container-1r6BKw {
+    padding-top: 7px !important;
+   }
+   
+   /* DM List Search */
+   .searchBar-6Kv8R2 .searchBarComponent-32dTOx {
+       transform: rotate(5deg);
+   }
+   
+   /* Top Tool Bar */
+   .toolbar-1t6TWx{
+       transform: rotateZ(-1deg);
+   }
+   /* Chat */
+   .button-3AYNKb {
+       padding-bottom: -15PX;
+   }
+   .cozyMessage-3V1Y8y.groupStart-23k01U{
+       transform: rotateZ(-1deg);
+   }
+   .form-2fGMdU{
+       transform: rotateZ(-1deg);
+   }
+   
+   /* User Panel */
+   .panels-j1Uci_{
+       transform: rotateZ(-1deg);
+   }
+   
+   /* Tilted Server List */ 
+      .scroller-1Bvpku {
+          transform: rotateZ(1deg);
+      }
+   
+   /* Tilted Settings Content Screen */
+   .contentRegion-3nDuYy {
+      transform: rotateZ(-1deg);
+   }
+   /* User / Spotify Panel */
+   .panels-j1Uci_ {
+      padding-left: 10px;
+   }
