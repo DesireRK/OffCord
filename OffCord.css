@@ -91,6 +91,5 @@
    }
    /* Full Screen Modal */
   .root-SR8cQa {
-      rotate: rotate(5deg);
-      margin-right: 100px;
+      transform: rotate(5deg);
   }
